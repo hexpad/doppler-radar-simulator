@@ -3,6 +3,8 @@
 Hi there! This is a small project I built while I was teaching myself how Doppler radar works. 
 I wanted to see if I could actually translate the physics of frequency shifts into a working C++ simulation.
 
+<img width="1394" height="489" alt="doppler" src="https://github.com/user-attachments/assets/cc6c301b-0c4e-4f6b-8a54-bf6b1d890122" />
+
 
 # Why I built this
 
