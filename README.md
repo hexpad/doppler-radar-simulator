@@ -8,7 +8,7 @@ I wanted to see if I could actually translate the physics of frequency shifts in
 
 ## Why I built this
 
-I’ve always been curious about how police radars or weather stations measure speed. 
+I have always been curious about how police radars or weather stations measure speed. 
 Instead of just reading the theory, I decided to code it. 
 My goal was to see how velocity can be estimated from a frequency shift and, more importantly, how "noise" in the real world makes that job a lot harder.
 
@@ -17,7 +17,7 @@ My goal was to see how velocity can be estimated from a frequency shift and, mor
 
 1. Wavelength: It calculates the wavelength based on the frequency the user provides
    ```cpp
-   wavelength = light speed/frequency
+   wavelength = light speed/frequency
    ```
 2. The Math: It uses the Doppler formula
     ```cpp
@@ -30,7 +30,7 @@ My goal was to see how velocity can be estimated from a frequency shift and, mor
 
 ## Example Input
 
-When you run the code, it’ll ask you for some inputs in the terminal:
+When you run the code, it will ask you for some inputs in the terminal:
 
 Radar frequency (GHz)
 
